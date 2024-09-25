@@ -1069,9 +1069,9 @@ preview-2
   width: 100%;
 }
 
-.single-products-member:hover .products-img a:after {
+/*.single-products-member:hover .products-img a:after {
   opacity: 1;
-}
+}*/
 
 .single-products-member:hover .products-social-icon {
   top: 10%;
@@ -1524,8 +1524,9 @@ preview-2
 .flicker-img > a {
   float: left;
   margin-right: 20px;
+  margin-bottom: 10px;
   padding: 1px;
-  width: 33.33%;
+  width: 27%;
 }
 
 .flicker-img > a > img{
